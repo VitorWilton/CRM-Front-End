@@ -1,4 +1,7 @@
 # CRM de Beneficiários - Frontend Simples
+
+
+
 ## ✨ Funcionalidades
 
 * **Listagem de Beneficiários:** Exibe os beneficiários cadastrados em uma tabela responsiva.
